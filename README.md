@@ -1,3 +1,9 @@
+## Quote Generator
+
+This app was inspired by [freeCodeCamp](https://www.freecodecamp.org/). It is part of the Front End Libraries curriculum. [Here](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine) is the user story.
+
+## Original README
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
