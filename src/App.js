@@ -5,6 +5,16 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <div className="container">
+        <div className="row">
+          <div className="col-sm-8">
+            so far so good ?
+          </div>
+          <div className="col-sm-4" style={{background: "salmon"}}>
+            yes, no ?
+          </div>
+        </div>
+      </div>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
