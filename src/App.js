@@ -86,7 +86,7 @@ class App extends Component {
                   new quote
                 </button>
                 <a
-                  href={`https://twitter.com/intent/tweet?text="${quote}"%20by%20${author}&url=https://gitsushi.github.io/quote-generator/`}
+                  href={`https://twitter.com/intent/tweet?text="${quote}"%20by%20${author}%20from%20&url=https://gitsushi.github.io/quote-generator/`}
                   rel="noopener noreferrer"
                   target="_blank"
                   id="tweet-quote"
